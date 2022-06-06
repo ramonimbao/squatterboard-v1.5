@@ -1,0 +1,7 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,4.7n,C_0603_1608Metric,-49.4,-6.5,270,bottom
+J1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12-jlc,-37,-11.3,180,bottom
+J2,Conn_01x04,JST-SR-4,-23.4,-3.3,0,bottom
+R1,5.1k,R_0603_1608Metric,-45.4,-6.3,90,bottom
+R2,5.1k,R_0603_1608Metric,-43.6,-6.3,90,bottom
+R3,1M,R_0805_2012Metric,-47.4,-6.5,270,bottom
