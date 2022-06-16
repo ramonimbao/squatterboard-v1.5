@@ -3,7 +3,7 @@
     "design_settings": {
       "defaults": {
         "board_outline_line_width": 0.15,
-        "copper_line_width": 9.999999999999999e-05,
+        "copper_line_width": 0.12,
         "copper_text_italic": false,
         "copper_text_size_h": 1.5,
         "copper_text_size_v": 1.5,
@@ -207,7 +207,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Unified-Daughterboard.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
