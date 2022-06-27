@@ -1,8 +1,10 @@
-# Squatterboard V2
+# Squatterboard V1.5
 
 ![squatterboard-v2](squatterboard-v2.png)
 
 This repository is a mix between [Croktopus' squatterboard](https://github.com/Croktopus/squatterboard), [xyz's b-ken-ko daughterboard](https://github.com/xyzz/b-ken-ko/tree/main/dboard), and [my fork of the squatterboard](https://github.com/ramonimbao/squatterboard).
+
+Calling this V2 might be confusing since [there's already a second version of it](https://github.com/Croktopus/squatterboard2), so I renamed it to V1.5.
 
 ## Features
 
